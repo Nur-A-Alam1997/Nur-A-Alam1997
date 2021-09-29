@@ -39,3 +39,5 @@ I am Nur. I am a tech enthusiast & an open-source advocate. I am always open to 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nur-A-Alam1997&hide=TeX&layout=compact)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Nur-A-Alam1997.Nur-A-Alam1997)
+
+![Visitor Count](https://profile-counter.glitch.me/Nur-A-Alam1997/count.svg)
